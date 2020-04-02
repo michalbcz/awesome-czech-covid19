@@ -2,7 +2,7 @@
 
 Ručně udržový seznam všeho možného k pandemii COVID-19 na území České Republiky.
 
-Něco podobného vzniká na české [wikipedi](https://cs.wikipedia.org/wiki/Pandemie_COVID-19_v_%C4%8Cesku).
+Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pandemie_COVID-19_v_%C4%8Cesku).
 
 ## Obecné informace
 
@@ -74,8 +74,8 @@ https://chcipomoct.cz/
 
 [Pomáháme Praze](https://sites.google.com/view/dobrovolnik-covid19) - společný projekt Prahy a neziskové organizace zivot90.cz
 
-donio.cz
-   * https://www.donio.cz/CoroVent #vybrano 
+[donio.cz](https:///www.donio.cz)
+   * https://www.donio.cz/CoroVent #ukončeno 
    * https://www.donio.cz/energiilekarum
    * https://www.donio.cz/rousky
    * https://www.donio.cz/CovMask 
