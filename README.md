@@ -157,6 +157,8 @@ Zdroje: [wikipedia.org](https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana) [[1](h
 
 31.3. [povinné nošení ochrany úst a nosu mimo domov prodlouženo](http://www.mzcr.cz/dokumenty/mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest_18875_4135_1.html)
 
+2.4. [magická hranice 1 milión nakažených světově překročena](https://www.novinky.cz/zahranicni/koronavirus/clanek/koronavirem-se-celosvetove-nakazil-milion-lidi-40319179)
+
 ## Selhání státu / Kauzy / Stížnosti
 https://www.reflex.cz/clanek/komentare/100373/zakleknout-na-podnikatele-to-umime-i-v-dobe-koronaviru-stat-zakazal-vyrobu-dezinfekce-martinu-zufankovi.html
 
