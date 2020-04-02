@@ -52,6 +52,7 @@ https://www.mall.tv/kulturazije #zdarma
 
 https://www.ceskatelevize.cz/ivysilani/
 
+https://aerovod.cz/ #filmy-za-par-korun
 
 ### Knihy, časopisy
 https://www.respekt.cz/specialy #zdarma
