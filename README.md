@@ -83,6 +83,14 @@ https://chcipomoct.cz/
 
 https://zachranpivo.cz
 
+[IT dobrovolaná pracovní skupina Covid19cz](https://covid19cz.cz/) 
+   * zajimavé projekty ([odkaz na všechny projekty](https://covid19cz.cz/projekty/seznam-projektu)):
+       * http://erouska.betaversion.cz/ - součást systému Chytrá karanténa Ministerstva zdravotnictví ČR
+       * linka1212.cz
+       * GPS tracking v mapy.cz - stačí stáhnout mobilní aplikaci Mapy.cz
+       * https://www.dobrovoz.cz/ - dobrovolnické rozvážení pomůcek a dalších potřebných věcí
+       * https://www.corovent.cz/ - Open-source plicní ventilátor pro pacienty s COVID-19
+
 
 ## Firmy, které pomáhají
 
