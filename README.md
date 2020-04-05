@@ -42,7 +42,9 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 [Jak pracovat z domova](https://www.wikihow.cz/Jak-pracovat-z-domova)
 
 ### Jak fungovat doma - děti
-https://www.ceskatelevize.cz/porady/13394657013-ucitelka/dily/
+[UčiTelka - výukový pořad pro děti](https://www.ceskatelevize.cz/porady/13394657013-ucitelka/dily/)
+
+[ČT edu - Tisíce videí pro chytrou zábavu i vědu](https://edu.ceskatelevize.cz/)
 
 
 ### Jak fungovat doma - volný čas (akce, slevy...atd.)
