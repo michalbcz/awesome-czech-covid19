@@ -47,19 +47,36 @@ https://www.ceskatelevize.cz/porady/13394657013-ucitelka/dily/
 
 ### Jak fungovat doma - volný čas (akce, slevy...atd.)
 
+#### Weby
+https://www.citybee.cz/ - server zaměřený na offline akce, nyní posílá tipy a triky na online zábavu
+
 #### Video
 https://www.mall.tv/kulturazije #zdarma
 
-https://www.ceskatelevize.cz/ivysilani/
+[iVysílaní České televize](https://www.ceskatelevize.cz/ivysilani/)
 
 https://aerovod.cz/ #filmy-za-par-korun
+
+[FILMY ČESKY A ZADARMO - BioScop](https://www.youtube.com/channel/UCoemQ3xsaVdIYtnh2B7K3Eg)
+
+### Audio
+
+[Český Rozhlas - hry, pohadky, čtenářský deník, pořady](https://www.mujrozhlas.cz/deti)
 
 ### Knihy, časopisy
 https://www.respekt.cz/specialy #zdarma
 
 https://www.forbes.cz/all-you-can-read-forbes-otevira-zdarma-svuj-archiv/ #zdarma
 
-https://reportermagazin.cz/a/p5R9E/prodlouzeno-neomezene--cteni-vsechny-clanky-za-1--kc #sleva
+https://reportermagazin.cz/a/p5R9E/prodlouzeno-neomezene--cteni-vsechny-clanky-za-1--kc #sleva #skorozdarma
+
+https://www.vazarna.cz/hrou-proti-trudnomyslnosti/? - nenáročné hry k vytisknutí (lodě, země-město...) #zdarma
+
+### Chci se něco nového naučit
+
+[Cirqueon - škola žonglování a dalších dovedností cirkusáka](https://www.facebook.com/pg/cirqueon/videos/?ref=page_internal)
+
+[Planetarium Praha - online přednášky, tipy, pracovní listy pro malé i velké](https://www.planetum.cz/vesmirna-zabava-a-vzdelani/)
 
 ### Ostatní
 https://zachranpivo.cz
@@ -81,7 +98,7 @@ https://chcipomoct.cz/
    * https://www.donio.cz/rousky
    * https://www.donio.cz/CovMask 
 
-https://zachranpivo.cz
+https://zachranpivo.cz - podpora malých pivovarů
 
 [IT dobrovolaná pracovní skupina Covid19cz](https://covid19cz.cz/) 
    * zajimavé projekty ([odkaz na všechny projekty](https://covid19cz.cz/projekty/seznam-projektu)):
