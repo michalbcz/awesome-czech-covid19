@@ -139,7 +139,7 @@ Zdroje: [wikipedia.org](https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana) [[1](h
 
 27.1. první výskyt v Německu
 
-31.1. první výskyt v v Itálii u čínských turistů
+31.1. první výskyt v Itálii u čínských turistů
 
 14.2. první úmrtí v Evropě, čínský turista ve Francii
 
