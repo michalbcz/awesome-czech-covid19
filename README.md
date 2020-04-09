@@ -186,6 +186,8 @@ Zdroje: [wikipedia.org](https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana) [[1](h
 
 2.4. [magická hranice 1 milión nakažených světově překročena](https://www.novinky.cz/zahranicni/koronavirus/clanek/koronavirem-se-celosvetove-nakazil-milion-lidi-40319179)
 
+9.4. počet obětí v ČR překročil 100
+
 ## Selhání státu / Kauzy / Stížnosti
 https://www.reflex.cz/clanek/komentare/100373/zakleknout-na-podnikatele-to-umime-i-v-dobe-koronaviru-stat-zakazal-vyrobu-dezinfekce-martinu-zufankovi.html
 
