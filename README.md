@@ -27,6 +27,8 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 	
 [Ministerstvo zdravotnictví - Aktuální mimořádná opatření a rozhodnutí ke COVID-19](http://www.mzcr.cz/obsah/aktualni-mimoradna-opatreni-a-rozhodnuti-ke-covid-19_4135_4_1.html)
 
+[Aktuální informace pro podnikatele k dopadům COVID-19](https://www.komora.cz/koronavirus/)
+
 
 ## Úlevy občanům a firmám
 
@@ -34,6 +36,7 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 
 * [Informace Ministerstva financí pro veřejnost o opatřeních v souvislosti s koronavirem COVID-19.](https://www.mfcr.cz/cs/aktualne/koronavirus-covid-19)
 
+* [25tisícový bonus pro OSVČ @ Hospodářská komora](https://www.komora.cz/financni-pomoc-dane-ucetnictvi-a-pojisteni/)
 
 ## Jak fungovat doma ?
 
