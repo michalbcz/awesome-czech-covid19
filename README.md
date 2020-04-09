@@ -86,9 +86,9 @@ https://zachranpivo.cz
 
 ## Chci pomoct? Co je potřeba?
 
-https://www.damekrev.cz/
+[damekrev.cz/](https://www.damekrev.cz/) - reakce na snižující se zásoby darované krve
 
-https://chcipomoct.cz/
+[chcipomoct.cz](https://chcipomoct.cz/)
 
 [Jihomoravský kraj hledá dobrovolníky](https://www.kraj-jihocesky.cz/form/dobrovolnici-covid-19)
 
@@ -99,8 +99,10 @@ https://chcipomoct.cz/
    * https://www.donio.cz/energiilekarum
    * https://www.donio.cz/rousky
    * https://www.donio.cz/CovMask 
+   
+[energiilekarum.cz/](https://www.energiilekarum.cz/)
 
-https://zachranpivo.cz - podpora malých pivovarů
+[zachranpivo.cz](https://zachranpivo.cz) - podpora malých pivovarů
 
 [IT dobrovolaná pracovní skupina Covid19cz](https://covid19cz.cz/) 
    * zajimavé projekty ([odkaz na všechny projekty](https://covid19cz.cz/projekty/seznam-projektu)):
@@ -113,16 +115,10 @@ https://zachranpivo.cz - podpora malých pivovarů
 
 ## Firmy, které pomáhají
 
-Průša3D
-https://video.aktualne.cz/dvtv/3d-tiskarny-v-boji-s-koronavirem-rozdali-jsme-uz-tisice-ochr/r~3baa0a8a6cff11eaaabd0cc47ab5f122/
-
-Žufánek
-https://www.czechcrunch.cz/2020/03/misto-oblibeneho-ginu-omfg-ted-vznika-dezinfekcni-gel-lihovarnik-martin-zufanek-pomaha-vyrobou-oh-my-disinfection/
-
-PPF
-https://www.forbes.cz/petr-keller-a-jeho-ppf-venuje-cesku-120-tun-zdravotnickeho-materialu-rousek-a-respiratoru/
-
-
+* Průša3D https://video.aktualne.cz/dvtv/3d-tiskarny-v-boji-s-koronavirem-rozdali-jsme-uz-tisice-ochr/r~3baa0a8a6cff11eaaabd0cc47ab5f122/
+* Žufánek https://www.czechcrunch.cz/2020/03/misto-oblibeneho-ginu-omfg-ted-vznika-dezinfekcni-gel-lihovarnik-martin-zufanek-pomaha-vyrobou-oh-my-disinfection/
+* PPF https://www.forbes.cz/petr-keller-a-jeho-ppf-venuje-cesku-120-tun-zdravotnickeho-materialu-rousek-a-respiratoru/
+* [Mall.cz](mall.cz) - [darovala stany pro stanové městečko pro Pražské bezdomovce](https://www.mall.tv/no-go-zone/z-ulic-do-stanu-jak-narocne-je-postarat-se-o-lidi-bez-domova), integrovala [energiilekarum.cz](https://www.energiilekarum.cz/) do nakupních formulářů
 
 ## Budoucnost (aneb co nás čeká?)
 
