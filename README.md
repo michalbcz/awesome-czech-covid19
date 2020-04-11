@@ -16,7 +16,7 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 	* Praha https://bezpecnost.praha.eu/udalosti/neco-se-deje_24_2_2020 
 		* krizová linka 800 160 166 #zdarma
 
-* speciální stránka české Wikipedia [Pandemie Covid v Česku](https://cs.wikipedia.org/wiki/Pandemie_COVID-19_v_%C4%8Cesku)
+* speciální stránka české wikipedie [Pandemie Covid v Česku](https://cs.wikipedia.org/wiki/Pandemie_COVID-19_v_%C4%8Cesku)
 	
 ## Hygiena 
 
