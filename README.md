@@ -1,6 +1,6 @@
 # Covid 19
 
-Ručně udržový seznam všeho možného k pandemii COVID-19 na území České Republiky.
+Ručně udržovaný seznam všeho možného k pandemii COVID-19 na území České Republiky.
 
 Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pandemie_COVID-19_v_%C4%8Cesku).
 
@@ -15,6 +15,8 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 * aktuální informace podle krajů
 	* Praha https://bezpecnost.praha.eu/udalosti/neco-se-deje_24_2_2020 
 		* krizová linka 800 160 166 #zdarma
+
+* speciální stránka české wikipedie [Pandemie Covid v Česku](https://cs.wikipedia.org/wiki/Pandemie_COVID-19_v_%C4%8Cesku)
 	
 ## Hygiena 
 
@@ -88,6 +90,8 @@ https://zachranpivo.cz
 
 
 ## Chci pomoct? Co je potřeba?
+
+[idnes.cz/koronavirus/pomahame](https://www.idnes.cz/koronavirus/pomahame) - pěkný časově sežazený seznam s filtrováním jak pomoci popřípadě kdo pomáhá a s čím #dobrovolnici #pomoczdravotnikum
 
 [damekrev.cz/](https://www.damekrev.cz/) - reakce na snižující se zásoby darované krve
 
