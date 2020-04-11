@@ -17,7 +17,12 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 		* krizová linka 800 160 166 #zdarma
 
 * speciální stránka české wikipedie [Pandemie Covid v Česku](https://cs.wikipedia.org/wiki/Pandemie_COVID-19_v_%C4%8Cesku)
-	
+* statistické, predikční weby
+	* [koronainfo.cz](https://koronainfo.cz/)
+	* [koronagrafy.techbrick.cz](http://koronagrafy.techbrick.cz/)
+* mapy výskytu
+	* [koronamap.cz](https://koronamap.cz/)
+	* [mapy.cz - přehledová webovka pro koronavirus](https://mapy.cz/covid/)
 ## Hygiena 
 
 [Jak si správně mít ruce](http://www.szu.cz/uploads/documents/czzp/edice/Nove/Jak_si_spravne_myt_ruce.pdf)
