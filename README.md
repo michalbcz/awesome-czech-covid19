@@ -20,7 +20,9 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 * statistické, predikční weby
 	* [koronainfo.cz](https://koronainfo.cz/)
 	* [koronagrafy.techbrick.cz](http://koronagrafy.techbrick.cz/)
-	
+* mapy výskytu
+	* [koronamap.cz](https://koronamap.cz/)
+	* [mapy.cz - přehledová webovka pro koronavirus](https://mapy.cz/covid/)
 ## Hygiena 
 
 [Jak si správně mít ruce](http://www.szu.cz/uploads/documents/czzp/edice/Nove/Jak_si_spravne_myt_ruce.pdf)
