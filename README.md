@@ -6,7 +6,7 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 
 ## Obecné informace
 
-* https://koronavirus.mzcr.cz/
+* [koronavirus.mzcr.cz](https://koronavirus.mzcr.cz/)
 	* [Aktuální statistiky](https://onemocneni-aktualne.mzcr.cz/covid-19)
     * [Vývoj událostí v čase](https://koronavirus.mzcr.cz/vyvoj-udalosti-v-case/)
     * [Důležité kontakty a odkazy](https://koronavirus.mzcr.cz/dulezite-kontakty-odkazy/) 
@@ -56,18 +56,22 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 
 [ČT edu - Tisíce videí pro chytrou zábavu i vědu](https://edu.ceskatelevize.cz/)
 
+### Jak fungovat doma - komunikace
+Konfereční aplikace:
+* [meet.vpsfree.cz](https://meet.vpsfree.cz/)
+* [Discord](https://discordapp.com/)
 
 ### Jak fungovat doma - volný čas (akce, slevy...atd.)
 
 #### Weby
-https://www.citybee.cz/ - server zaměřený na offline akce, nyní posílá tipy a triky na online zábavu
+[citybee.cz](https://www.citybee.cz/) - server zaměřený na offline akce, nyní posílá tipy a triky na online zábavu
 
 #### Video
-https://www.mall.tv/kulturazije #zdarma
+[mall.tv/kulturazije](https://www.mall.tv/kulturazije) #zdarma
 
 [iVysílaní České televize](https://www.ceskatelevize.cz/ivysilani/)
 
-https://aerovod.cz/ #filmy-za-par-korun
+[aerovod.cz](https://aerovod.cz/) #filmy-za-par-korun
 
 [FILMY ČESKY A ZADARMO - BioScop](https://www.youtube.com/channel/UCoemQ3xsaVdIYtnh2B7K3Eg)
 
@@ -76,13 +80,14 @@ https://aerovod.cz/ #filmy-za-par-korun
 [Český Rozhlas - hry, pohadky, čtenářský deník, pořady](https://www.mujrozhlas.cz/deti)
 
 ### Knihy, časopisy
-https://www.respekt.cz/specialy #zdarma
+[respekt.cz/specialy](https://www.respekt.cz/specialy) #zdarma
 
-https://www.forbes.cz/all-you-can-read-forbes-otevira-zdarma-svuj-archiv/ #zdarma
+[forbes.cz/all-you-can-read-forbes-otevira-zdarma-svuj-archiv](https://www.forbes.cz/all-you-can-read-forbes-otevira-zdarma-svuj-archiv/) #zdarma
 
-https://reportermagazin.cz/a/p5R9E/prodlouzeno-neomezene--cteni-vsechny-clanky-za-1--kc #sleva #skorozdarma
+[reportermagazin.cz](https://reportermagazin.cz/a/p5R9E/prodlouzeno-neomezene--cteni-vsechny-clanky-za-1--kc) #sleva #skorozdarma
 
-https://www.vazarna.cz/hrou-proti-trudnomyslnosti/? - nenáročné hry k vytisknutí (lodě, země-město...) #zdarma
+[vazarna.cz/hrou-proti-trudnomyslnosti](https://www.vazarna.cz/hrou-proti-trudnomyslnosti/?) - nenáročné hry k vytisknutí (lodě, země-město...) #zdarma
+
 
 ### Chci se něco nového naučit
 
@@ -90,15 +95,17 @@ https://www.vazarna.cz/hrou-proti-trudnomyslnosti/? - nenáročné hry k vytiskn
 
 [Planetarium Praha - online přednášky, tipy, pracovní listy pro malé i velké](https://www.planetum.cz/vesmirna-zabava-a-vzdelani/)
 
+Programování - kurzy [naucse.python.cz](https://naucse.python.cz/course/pyladies/), [engeto.cz](https://engeto.com/cs/katalog/), [umimeprogramovat.cz](https://www.umimeprogramovat.cz/)
+
 ### Ostatní
-https://zachranpivo.cz
+[zachranpivo.cz](https://zachranpivo.cz)
 
 
 ## Chci pomoct? Co je potřeba?
 
 [idnes.cz/koronavirus/pomahame](https://www.idnes.cz/koronavirus/pomahame) - pěkný časově sežazený seznam s filtrováním jak pomoci popřípadě kdo pomáhá a s čím #dobrovolnici #pomoczdravotnikum
 
-[damekrev.cz/](https://www.damekrev.cz/) - reakce na snižující se zásoby darované krve
+[damekrev.cz](https://www.damekrev.cz/) - reakce na snižující se zásoby darované krve
 
 [chcipomoct.cz](https://chcipomoct.cz/)
 
@@ -107,18 +114,18 @@ https://zachranpivo.cz
 [Pomáháme Praze](https://sites.google.com/view/dobrovolnik-covid19) - společný projekt Prahy a neziskové organizace zivot90.cz
 
 [donio.cz](https:///www.donio.cz)
-   * https://www.donio.cz/CoroVent #ukončeno 
-   * https://www.donio.cz/energiilekarum
-   * https://www.donio.cz/rousky
-   * https://www.donio.cz/CovMask 
+   * [donio.cz/CoroVent](https://www.donio.cz/CoroVent) #ukončeno 
+   * [donio.cz/energiilekarum](https://www.donio.cz/energiilekarum)
+   * [donio.cz/rousky](https://www.donio.cz/rousky)
+   * [donio.cz/CovMask](https://www.donio.cz/CovMask)
    
-[energiilekarum.cz/](https://www.energiilekarum.cz/)
+[energiilekarum.cz](https://www.energiilekarum.cz/)
 
 [zachranpivo.cz](https://zachranpivo.cz) - podpora malých pivovarů
 
 [IT dobrovolaná pracovní skupina Covid19cz](https://covid19cz.cz/) 
    * zajimavé projekty ([odkaz na všechny projekty](https://covid19cz.cz/projekty/seznam-projektu)):
-       * http://erouska.betaversion.cz/ - součást systému Chytrá karanténa Ministerstva zdravotnictví ČR
+       * http://erouska.cz/ - součást systému Chytrá karanténa Ministerstva zdravotnictví ČR
        * linka1212.cz
        * GPS tracking v mapy.cz - stačí stáhnout mobilní aplikaci Mapy.cz
        * https://www.dobrovoz.cz/ - dobrovolnické rozvážení pomůcek a dalších potřebných věcí
