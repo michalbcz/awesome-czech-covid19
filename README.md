@@ -94,6 +94,8 @@ https://www.vazarna.cz/hrou-proti-trudnomyslnosti/? - nenáročné hry k vytiskn
 
 [Planetarium Praha - online přednášky, tipy, pracovní listy pro malé i velké](https://www.planetum.cz/vesmirna-zabava-a-vzdelani/)
 
+Programování - kurzy [naucse.python.cz](https://naucse.python.cz/course/pyladies/), [engeto.cz](https://engeto.com/cs/katalog/), [umimeprogramovat.cz](https://www.umimeprogramovat.cz/)
+
 ### Ostatní
 https://zachranpivo.cz
 
