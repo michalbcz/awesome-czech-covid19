@@ -122,7 +122,7 @@ https://zachranpivo.cz
 
 [IT dobrovolaná pracovní skupina Covid19cz](https://covid19cz.cz/) 
    * zajimavé projekty ([odkaz na všechny projekty](https://covid19cz.cz/projekty/seznam-projektu)):
-       * http://erouska.betaversion.cz/ - součást systému Chytrá karanténa Ministerstva zdravotnictví ČR
+       * http://erouska.cz/ - součást systému Chytrá karanténa Ministerstva zdravotnictví ČR
        * linka1212.cz
        * GPS tracking v mapy.cz - stačí stáhnout mobilní aplikaci Mapy.cz
        * https://www.dobrovoz.cz/ - dobrovolnické rozvážení pomůcek a dalších potřebných věcí
