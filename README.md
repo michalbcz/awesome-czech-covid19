@@ -95,7 +95,7 @@ Konfereční aplikace:
 
 [Planetarium Praha - online přednášky, tipy, pracovní listy pro malé i velké](https://www.planetum.cz/vesmirna-zabava-a-vzdelani/)
 
-Programování - kurzy [naucse.python.cz](https://naucse.python.cz/course/pyladies/), [engeto.cz](https://engeto.com/cs/katalog/), [umimeprogramovat.cz](https://www.umimeprogramovat.cz/)
+Programování - [kurzy od Czechitas](https://www.czechitas.cz/cs/co-delame/chci-se-ucit-online) (např. [Zůstaň doma a naprogramuj si hru](https://www.czechitas.cz/cs/co-delame/chci-se-ucit-online/kurzy/zustandoma)), kurzy [naucse.python.cz](https://naucse.python.cz/course/pyladies/), [engeto.cz](https://engeto.com/cs/katalog/), [umimeprogramovat.cz](https://www.umimeprogramovat.cz/)
 
 ### Ostatní
 [zachranpivo.cz](https://zachranpivo.cz)
