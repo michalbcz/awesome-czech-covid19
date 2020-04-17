@@ -59,7 +59,7 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 [ČT edu - Tisíce videí pro chytrou zábavu i vědu](https://edu.ceskatelevize.cz/)
 
 ### Jak fungovat doma - komunikace
-Konfereční aplikace:
+
 * [meet.vpsfree.cz](https://meet.vpsfree.cz/)
 * [Discord](https://discordapp.com/)
 
