@@ -36,6 +36,8 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 
 [Aktuální informace pro podnikatele k dopadům COVID-19](https://www.komora.cz/koronavirus/)
 
+[Ministerstvo dopravy - STK, propadlé řidičské průkazy, privátní doprava...apod](https://www.mdcr.cz/Mimoradna-opatreni-v-doprave)
+
 
 ## Úlevy občanům a firmám
 
