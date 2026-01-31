@@ -155,7 +155,7 @@ Něco podobného vzniká na české [wikipedii](https://cs.wikipedia.org/wiki/Pa
 
 #### Audio
 
-[Český Rozhlas - hry, pohadky, čtenářský deník, pořady](https://www.mujrozhlas.cz/deti)
+[Český Rozhlas - hry, pohádky, čtenářský deník, pořady](https://www.mujrozhlas.cz/deti)
 
 [Spotify](https://www.spotify.com/)
 
@@ -304,7 +304,7 @@ Programování - [kurzy od Czechitas](https://www.czechitas.cz/cs/co-delame/chci
 
 [Dopad na kulturu a umění](https://www.mkcr.cz/)
 
-[Dopad na sport](https://www.mkcr.cz/)
+[Dopad na sport](https://www.msmt.cz/)
 
 [Ekonomické dopady - analýzy](https://www.mfcr.cz/)
 
